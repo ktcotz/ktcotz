@@ -14,6 +14,7 @@
 Languages             |  Usage
 :-------------------------:|:-------------------------:
  ![HTML5](https://img.shields.io/badge/-HTML5-333333?&logo=HTML5) |  Structuring
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |  Styling
 
 <h2> 🛠 &nbsp;Tools</h2>
 
