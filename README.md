@@ -13,8 +13,18 @@
 
 Languages             |  Usage
 :-------------------------:|:-------------------------:
- ![HTML5](https://img.shields.io/badge/-HTML5-333333?&logo=HTML5) |  Structuring
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |  Styling
+ ![HTML5](https://img.shields.io/badge/-HTML5-333333?&logo=HTML5&style=flat) |  Structuring
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&style=flat) |  Styling
+ ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white&style=flat) |  Styling
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&style=flat) |  Logic
+ ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&style=flat) |  Typing
+
+
+<h2> 🛠 &nbsp;Librares</h2>
+
+Library             |  Usage
+:-------------------------:|:-------------------------:
+ ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white&style=flat) |  Validation
 
 <h2> 🛠 &nbsp;Tools</h2>
 
