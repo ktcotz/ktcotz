@@ -1,4 +1,4 @@
-<h1> Hey hello 👌</h2>
+<h1> Hey hello, Kamil here👌</h2>
 
 <p>
   I create front-end software based on modern technologies. Every thing I create is made with great precision. Every day I expand my knowledge on various topics and I work with the idea of "teaching and understanding the topic thoroughly".
