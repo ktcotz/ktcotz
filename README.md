@@ -7,7 +7,8 @@
 <h2> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring and learning new technologies.
-- 🌱 &nbsp; Learning more about Frontend Development.
+- 🌱 &nbsp; Learning more about Frontend Development and Backend Development.
+- Discipline and hard work everyday.. 
 
 <h2> 🛠 &nbsp;Tech Stack</h3>
 
