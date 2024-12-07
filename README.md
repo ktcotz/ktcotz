@@ -1,15 +1,36 @@
-<h1> Hey hello, Kamil here👌</h2>
+<h1> Kamil 👌</h1>
 
 <p>
-  I create front-end software based on modern technologies. Every thing I create is made with great precision. Every day I expand my knowledge on various topics and I work with the idea of "teaching and understanding the topic thoroughly".
+  Mathematician and programmer who teaches others and himself at the same time.. A person who creates frontend, backend with clean code and most importantly tested and adapted for everyone.
+
+In addition, a blogger.
+
+Some of my projects:
 </p>
+
+-  [InstaLove - only one social platform](https://github.com/ktcotz/InstaLove)
+-  [JustMovie - real rival for netflix](https://github.com/ktcotz/JustMovie)
+-  [DoneIT - manage your tasks](https://github.com/ktcotz/DoneIt)
+-  [Data Structures & Algorithms with testing](https://github.com/ktcotz/DSALearn)
+-  [Custom UI Package](https://github.com/ktcotz/Vive-UI)
+-  [Testing bootcamp](https://github.com/ktcotz/Testoviron)
+
+<p>
+  Other platforms:
+</p>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&style=flat)](https://leetcode.com/u/ktcotz/)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/ktcotz)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://typehero.dev/@ktcotz)
+
+
+
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring and learning new technologies.
-- 🌱 &nbsp; Learning more about Frontend Development and Backend Development.
-- Discipline and hard work everyday..
-- Learn with me <a href="https://github.com/ktcotz/Learny">Learny</a>
+- 🤔 &nbsp; Always learning something new
+- 🌱 &nbsp; Math tutor
+- 🌱 &nbsp; MMA fighter with a 3-0 record
 
 <h2> 🛠 &nbsp;Tech Stack</h3>
 
@@ -23,7 +44,8 @@ Languages             |  Usage
  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&style=flat) |  Typing
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&style=flat) |  Framework
  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white&style=flat) |  React Framework
- ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) |  Backend Framework
+ ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white&style=flat) |  Backend Framework
+ ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&style=flat) |  Database
 
 
 <h2> 🛠 &nbsp;Librares</h2>
@@ -35,6 +57,7 @@ Library             |  Usage
  ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white&style=flat)| Forms
  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white&style=flat)| Database
  ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white&style=flat) |  Validation
+ ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&style=flat) |  BaaS
 
 <h2> 🛠 &nbsp;Tools</h2>
 
